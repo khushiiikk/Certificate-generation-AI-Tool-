@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+reportlab
+qrcode[pil]
+python-multipart
+jinja2
+
