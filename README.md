@@ -1,4 +1,4 @@
-# 🎓 IFOA India: Neural Certificate Engine v4.0
+# 🎓 IFOA India: Neural Certificate Engine
 
 ![Logo](https://img.shields.io/badge/Status-Deploying-emerald?style=for-the-badge&logo=rocket)
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
